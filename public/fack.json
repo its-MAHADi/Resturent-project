@@ -125,7 +125,7 @@
             "name":"Spinach & Mushroom",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus.",
             "price": "$192.00 " ,
-            "image":"/image/food.png.png"
+            "image":"./image/food.png.png"
         }
 
     ]
